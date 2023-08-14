@@ -1,0 +1,6 @@
+framework module Pods_Today_Phrases {
+  umbrella header "Pods-Today-Phrases-umbrella.h"
+
+  export *
+  module * { export * }
+}
