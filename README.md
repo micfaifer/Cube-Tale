@@ -40,6 +40,6 @@ Cube Tale is an infinite runner game developed in Swift using SceneKit. In this 
 3. Build and run on an iOS device or simulator.
 
 ```bash
-git clone https://github.com/your-username/cube-tale.git
+git clone https://github.com/micfaifer/cube-tale.git
 cd cube-tale
-open CubeTale.xcodeproj
+open Cube-Tale.xcworkspace
